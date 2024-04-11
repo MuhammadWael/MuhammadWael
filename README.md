@@ -81,10 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadWael&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-![snake gif](https://github.com/MuhammadWael/MuhammadWael/blob/output/github-contribution-grid-snake.gif)
-###
-
 <h3 align="left">Profile Views</h3>
 
 ###
@@ -94,3 +90,7 @@
 </div>
 
 ###
+
+![snake gif](https://github.com/MuhammadWael/MuhammadWael/blob/output/github-contribution-grid-snake.gif)
+
+
