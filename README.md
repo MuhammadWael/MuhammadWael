@@ -91,6 +91,6 @@
 
 ###
 
-![snake gif](https://github.com/MuhammadWael/MuhammadWael/blob/output/github-contribution-grid-snake.gif)
+![snake gif]([github-contribution-grid-snake.gif](https://github.com/MuhammadWael/MuhammadWael/blob/output/github-contribution-grid-snake.gif))
 
 
