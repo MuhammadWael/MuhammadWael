@@ -82,8 +82,7 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/MuhammadWael/MuhammadWael/snake.yml" alt="Snake animation" />
-
+![snake gif](https://github.com/MuhammadWael/MuhammadWael/blob/output/github-contribution-grid-snake.gif)
 ###
 
 <h3 align="left">Profile Views</h3>
