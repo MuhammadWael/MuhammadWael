@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate_Snake
 
 on:
   schedule:
@@ -26,6 +26,12 @@ jobs:
       - name: Show the status of the build
         run: git status
 
+      - name: Set outputs
+        id: set-outputs
+        run: |
+          echo ::set-output name=gif_path::dist/github-contribution-grid-snake.gif
+          echo ::set-output name=svg_path::dist/github-contribution-grid-snake.svg
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
@@ -38,5 +44,7 @@ jobs:
         with:
           target_branch: main  # Update to the default branch name
           build_dir: dist
+          gif_path: ${{ steps.set-outputs.outputs.gif_path }}
+          svg_path: ${{ steps.set-outputs.outputs.svg_path }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
