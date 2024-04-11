@@ -82,8 +82,7 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/MuhammadWael/MuhammadWael/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MuhammadWael/MuhammadWael/snake.yml" alt="Snake animation" />
 
 ###
 
